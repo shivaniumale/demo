@@ -22,8 +22,8 @@ public class Theatre {
     }
     public boolean reserveSeat(String seatNumber){
         Seat reqSeat=null;
-       // for(Seat seat:seats){
-
-        //}
+        for(Seat seat:seats){
+            if(seat.)
+        }
     }
 }
